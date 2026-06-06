@@ -1,16 +1,28 @@
 ## Hi there 👋
+# I'm Sanket Surkar
 
-<!--
-**sanketsurkar/sanketsurkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.NET Developer with 4 years of experience in ASP.NET Core, Web API, SQL Server, and enterprise application development.
 
-Here are some ideas to get you started:
+## Technical Skills
+- C#
+- ASP.NET Core
+- .NET 
+- Dapper
+- Entity Framework Core
+- SQL Server
+- REST APIs
+- Microservices
+- TFS
+- Azure fundamentals
+- Instana
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Professional Experience
+- 4 years of experience in backend development
+- Enterprise application development
+- Batch processing systems
+- Third-party API integrations
+- Production support and performance optimization
+
+## Projects
+- Asset Management Systems  
